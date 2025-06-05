@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Thang</h1>
 <h3 align="center">A passionate React Native developer from VietNam</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thangnd03&label=Profile%20views&color=0e75b6&style=flat" alt="thangnd03" /> </p>
+<p align="left"> <a  href="https://www.github.com/thangnd03" target="_blank" rel="noreferrer"> <img src="https://komarev.com/ghpvc/?username=thangnd03&label=Profile%20views&color=0891b2&labelColor=1c1917&style=for-the-badge&abbreviated=true" alt="thangnd03" /></a> <a href="https://www.github.com/thangnd03" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/thangnd03?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thangnd03" alt="thangnd03" /></a> </p>
 
