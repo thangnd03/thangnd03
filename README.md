@@ -15,8 +15,8 @@ src="https://img.shields.io/github/followers/thangnd03?logo=github&style=for-the
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a style="display: inline-block;" href="https://fb.com/ndt2003a6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ndt2003a6" height="30" width="40" /></a>
-<a style="display: inline-block;" href="https://instagram.com/lt.thang03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lt.thang03" height="30" width="40" /></a>
+<a styles="display: inline-block;" href="https://fb.com/ndt2003a6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ndt2003a6" height="30" width="40" /></a>
+<a styles="display: inline-block;" href="https://instagram.com/lt.thang03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lt.thang03" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
