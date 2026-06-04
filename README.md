@@ -1,29 +1,100 @@
-<h1 align="center">Hi 👋, I'm Thang</h1>
-<h3 align="center">A passionate React Native developer from VietNam</h3>
+<div align="center">
 
-<p align="left"> <a  href="https://www.github.com/thangnd03" target="_blank" rel="noreferrer"> <img src="https://komarev.com/ghpvc/?username=thangnd03&label=Profile%20views&color=0891b2&labelColor=1c1917&style=for-the-badge&abbreviated=true" alt="thangnd03" /></a> <a href="https://www.github.com/thangnd03" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/thangnd03?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a> </p>
+<!-- Animated header banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=120&section=header&text=Thang%20Nguyen&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=React%20Native%20%7C%20Frontend%20Developer&descAlignY=60&descAlign=50" />
+
+<!-- Typing animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0891B2&center=true&vCenter=true&width=500&lines=React+Native+Developer+%F0%9F%93%B1;Frontend+Enthusiast+%F0%9F%92%BB;Always+learning+new+things+%F0%9F%8C%B1;Building+beautiful+UIs+%E2%9C%A8" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- Profile views & followers -->
+<a href="https://github.com/thangnd03">
+  <img src="https://komarev.com/ghpvc/?username=thangnd03&label=Profile%20Views&color=0891b2&labelColor=1c1917&style=for-the-badge&abbreviated=true" alt="Profile Views"/>
+</a>
+<a href="https://github.com/thangnd03">
+  <img src="https://img.shields.io/github/followers/thangnd03?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="Followers"/>
+</a>
+
+</div>
+
+---
+
+## 🙋‍♂️ About Me
+
+```javascript
+const thang = {
+  name:       "Nguyen Duc Thang",
+  location:   "Vietnam 🇻🇳",
+  role:       "React Native & Frontend Developer",
+  learning:   ["ReactJS", "React Native", "TypeScript"],
+  email:      "nguyenthang070103@gmail.com",
+  funFact:    "I turn coffee into mobile apps ☕📱"
+};
+```
+
+- 🌱 Currently sharpening my skills in **ReactJS** and **React Native**
+- 💬 Ask me anything about **React ecosystem & mobile development**
+- 📫 Reach me at **nguyenthang070103@gmail.com**
+- ⚡ I love building clean, user-friendly interfaces
+
+---
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thangnd03" alt="thangnd03" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJS ,React Native**
+## 🛠️ Tech Stack
 
-- 💬 Ask me about **ReactJS ,React Native**
-
-- 📫 How to reach me **nguyenthang070103@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a styles="display: inline-block;" href="https://fb.com/ndt2003a6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ndt2003a6" height="30" width="40" /></a>
-<a styles="display: inline-block;" href="https://instagram.com/lt.thang03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lt.thang03" height="30" width="40" /></a>
+### 📱 Mobile & Frontend
+<p>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### 🎨 Styling & UI
+<p>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thangnd03&show_icons=true&locale=en&layout=compact" alt="thangnd03" /></p>
+### ⚙️ State & Backend
+<p>
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thangnd03&show_icons=true&locale=en" alt="thangnd03" /></p>
+### 🧰 Tools & Workflow
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thangnd03&" alt="thangnd03" /></p>
+---
+
+
+
+## 🤝 Connect With Me
+
+<div align="center">
+  <a href="mailto:nguyenthang070103@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://fb.com/ndt2003a6" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/lt.thang03" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://github.com/thangnd03" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=80&section=footer"/>
+</div>
