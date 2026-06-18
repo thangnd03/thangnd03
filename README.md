@@ -42,8 +42,6 @@ const thang = {
 
 ---
 
-
-
 ## 🛠️ Tech Stack
 
 ### 📱 Mobile & Frontend
@@ -85,7 +83,37 @@ const thang = {
 
 ---
 
+## 🚀 Featured Projects
 
+### 💙 WSA × MBank — Nền tảng Thiện nguyện
+> Charity & donation platform built for MB Bank, connecting people in need, fundraisers, and donors through real-time, transparent fund tracking. 🏆 Winner of "Government & Citizen Engagement" at the **World Summit Awards (WSA) 2025**.
+
+🔗 [Campaign Site](https://wsa-mbbank.com.vn/)
+
+---
+
+### 📱 Winnie
+> Discover stores in your neighborhood and earn consistent benefits from local vendors — a lifestyle app connecting shops with nearby customers.
+
+📲 [Google Play](https://play.google.com/store/apps/details?id=com.winnie.userapp.v1) | [App Store](https://apps.apple.com/vn/app/winnie/id6737789682)
+
+---
+
+### 🛍️ Reikatachi — Đồ Nhật Nội Địa
+> Japanese import shopping app offering 100% authentic domestic Japanese goods (fashion, cosmetics, lifestyle products) delivered across Vietnam. Built with a separate Manager app for store & order operations.
+
+📲 **Customer App:** [Google Play](https://play.google.com/store/apps/details?id=com.reikatachi.customer&hl=vi) | [App Store](https://apps.apple.com/us/app/reikatachi-%C4%91%E1%BB%93-nh%E1%BA%ADt-n%E1%BB%99i-%C4%91%E1%BB%8Ba/id6553978990)
+📲 **Manager App:** [App Store](https://apps.apple.com/us/app/reikatachi-manager/id6556867041)
+
+---
+
+### 🚗 GOCheap! — Thuê Tài Xế Lái Xe Hộ
+> On-demand driver & ride-hailing platform in Vietnam — book a substitute driver, private driver, or transport service 24/7 with transparent pricing and 5,000+ verified driver partners nationwide. Includes separate Customer and Driver (DriverX) apps.
+
+📲 **Customer App:** [Google Play](https://play.google.com/store/apps/details?id=customer.gocheap.vn) | [App Store](https://apps.apple.com/us/app/gocheap-thu%C3%AA-t%C3%A0i-x%E1%BA%BF-l%C3%A1i-xe-h%E1%BB%99/id6455336074)
+📲 **Driver App:** [Google Play](https://play.google.com/store/apps/details?id=driverx.gocheap.vn) | [App Store](https://apps.apple.com/us/app/gocheap-t%C3%A0i-x%E1%BA%BF-vip/id6449995080)
+
+---
 
 ## 🤝 Connect With Me
 
